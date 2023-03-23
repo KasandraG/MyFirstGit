@@ -1,0 +1,4 @@
+touch README.md
+git add .
+git commit -m 'added a blank README file'
+git status
